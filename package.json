@@ -1,0 +1,23 @@
+{
+  "name": "testios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testrun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carruthe/testios.git"
+  },
+  "keywords": [
+    "yah",
+    "dude"
+  ],
+  "author": "tnc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carruthe/testios/issues"
+  },
+  "homepage": "https://github.com/carruthe/testios#readme"
+}
